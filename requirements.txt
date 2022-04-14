@@ -1,0 +1,18 @@
+# Testing
+pytest
+
+# Lint and code style
+flake8>=3.3.0
+flake8-blind-except==0.1.1
+flake8-debugger==1.4.0
+flake8-print==2.0.2
+flake8-tuple==0.2.13
+mypy==0.720
+numpy
+# pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+sklearn
+gcsfs
+tensorboardX
+flatten_dict
+#matplotlib==3.4.0
+pandas
